@@ -1,0 +1,182 @@
+############ UI = UI ############
+簡体中文=Chinese-simple
+日本語=Japanese
+ラボ=Lab
+眉=Eyebrows
+肌=Skin
+後ろ髪=Back
+前髪=Front
+鼻=Nose
+胸=Chest
+目元=Eyes
+耳=Ears
+乳首=Nipples
+ペイント=Body Paint
+色=Color
+
+マップ=Map
+補助=<size\=5>Misc</size>
+頭=<size\=5>Head</size>
+尻=<size\=5>Butt</size>
+下=<size\=5>Lower</size>
+靴=<size\=5>Shoes</size>
+上=<size\=5>Upper</size>
+手=<size\=5>Hand</size>
+装備=Equipment
+手2=<size\=5>Offhand</size>
+飾=<size\=5>Deco</size>
+ス\nテ\n❘\nタ\nス=<size\=6>S\nT\nA\nT\nS</size>
+ス\nキ\nル=<size\=6>S\nK\nI\nL\nL\nS</size>
+詳\n細=<size\=6>D\nE\nT\nA\nI\nL\nS</size>
+命令=<size\=6>O\nR\nD\nE\nR</size>
+名前\n変更=<size\=6>Name\nChange</size>
+名前\n表示=<size\=6>Name\nDisplay</size>
+好物=Favorite
+朝=Morning
+昼=Midday
+夕=Evening
+夜=Night
+走り固定=<size\=7>Toggle\nRun</size>
+移動=Move
+待機ポーズ=Waiting pose
+待機位置=Standby position
+追尾範囲=Tracking range
+行動範囲=Action range
+会話=<size\=7>Conversation</size>
+ステータス=Status
+追放=Exile
+呼び戻す=Recall
+腕力=Strength
+敏捷=Agility
+生命力=Vitality
+気絶値=Stun limit
+所持ポイント=Pointing point
+攻撃力=Offensive Power
+経験値=Experience Point
+レベル=Level
+スピード=Speed
+水分=Hydration
+体力=Physical Strength
+食料=Food
+ガード率=Guard Rate
+クラフト=Craft
+コレクション=Collection
+なし=None
+自然治癒=Self-healing
+忍耐=Patience
+驚異の胃袋=Marvel Gut
+採集=Gathering
+捕縛=Captivity
+強打=Smash
+先導=Leader
+水泳=Swimming
+運搬=Carrying
+観察眼=Observation
+建築=Architecture
+説得=Persuasion
+童貞=Virgin
+モラル=Moral
+性欲=Sexual Desire
+母=Mother
+父=Father
+性格=Personality
+整形数=Surgery
+一番好き=Favorite
+好きな性格=Favorite personality
+妊娠回数=Pregnancy count
+出産回数=Number of births
+エッチした=Horny
+一番嫌い=Dislike
+嫌いな性格=I dislike
+初H=First H
+パートナー=Partner
+自慰回数=Masturbation count
+関係=Relationship
+出産=Childbirth
+経歴=Career
+農作=Farming
+恋愛を許可=Allow love
+伐採=Logging
+攻撃型=Attack
+防御型=Defend
+生存型=Survive
+家の入出=House Entry/Exit
+採掘=Mining
+性行為を許可=Allow Sex
+発掘=Excavation
+戦闘=Combat
+仕事=Work
+わがまま=Selfish
+はしたない=Immodest
+ナルシスト=Narcissist
+置いていく=Leave
+コミュニケーション=Communication
+牧畜=Animals
+飼育=Breeding
+出産所=Birthplace
+はい=Yes
+いいえ=No
+ロードしますか？=Load This Game?
+連れていく=Take
+愛撫=Fondle
+挿入=Insert
+誘う=Invite
+[左クリック]プレイする場所を選択=[Left -click] Select where to play
+離れる=Leave
+止める=Stop
+速度=Speed
+<size\=8>フィニッシュ</size>=<size\=8>Finish</size>
+使用=Use
+撤去=<size\=6>Pickup</size>
+出入口=Enter
+運ぶ=Carry
+速度2=Speed 2
+入る=Leave
+回収=Collect
+解体=<size\=6>Dismember</size>
+お人好し=Favorable
+つよがり=Bold
+いい加減=Carefree
+イン=In
+これ以上連れていけません=Can't take anymore
+ネガティブ=Negative
+フレンドリスト=Friends list
+顔出し=Appearance
+放尿=Urination
+動く=Move
+飲む=Drink
+そっと犯す=Violate(Gentle)
+<size\=8>睡眠粉を使う</size>=<size\=8>Use sleepy dust</size>
+強引に犯す=Violate(Forceful)
+[左クリック] レイプ続行\n[R] 離れる= [Left-click] Continue rape\n[R] Leave
+指定したポイントに移動しますか？=Do you want to move to the specified point?
+[Ctrl+左クリック]撤去モード=[Ctrl+left click] Removal mode
+覗く=Peek
+交代=Change
+いじわる=Ill-tempered
+設定=Configuration
+タイトル=Title
+終了=Exit
+ロード=Load
+タイトルへ=Return to Title
+セーブ=Save
+セーブしますか？=Do you save?
+セーブ中...=Save...
+■なし\n働きません。性欲の回復量が上がる。\n\n■食料（必要建物：食料箱）\n食料を調達し、食料箱に蓄える。\n\n■伐採（必要建物：伐採場）\n木材を調達し、伐採場に蓄える。\n\n■採掘（必要建物：採掘場）\n石を調達し、採掘場に蓄える。\n\n■採集（必要建物：収穫箱）\n枝、葉、繊維等を調達し、収穫箱にいれる。\n\n■農作（必要建物：プランター & 収穫箱）\n近くのプランターの世話をして、収穫を収穫箱に入れる。\n\n■牧畜（必要建物：牧畜場）\n近くの牧畜場のお世話をして、繁殖させる。\n\n■発掘（必要建物：発掘場）\n土を調達し、発掘場に蓄える。=<size\=6>■ None\nDoes not work. Increases libido recovery amount.\n\n■ Food (Required Building: Food Box)\nProcure food and store it in the food box.\n\n■ Logging (Required Building: Logging Site)\nProcure wood and store it in the logging site.\n\n■ Mining (Required Building: Mining Site)\nProcure stone and store it in the mining site.\n\n■ Gathering (Required Building: Harvest Box)\nProcure branches, leaves, fibers, etc., and place them in the harvest box.\n\n■ Farming (Required Building: Planter & Harvest Box)\nTake care of nearby planters and put the harvest in the harvest box.\n\n■ Animal Husbandry (Required Building: Animal Husbandry)\nTake care of the nearby animals and let them breed.\n\n■ Excavation (Required Building: Excavation Site)\nProcure soil and store it in the excavation site.</size>
+スキップ=Skip
+矢を持っていません=I don't have an arrow
+運んでいるNPCが多すぎる=Carrying too many NPCs.
+遠すぎる=Too far.
+他人の建物が近くにあります=Other people's buildings are nearby.
+食べる=Eat
+ゲームを終了しますか？=Quit The Game?
+朝まで眠る=<size\=6>Sleep until morning</size>
+夜まで眠る=<size\=6>Sleep until night</size>
+Sleep until morning=<size\=6>Sleep until morning</size>
+Sleep until night=<size\=6>Sleep until night</size>
+
+スキルレベルが上がった=Skill level increased
+Got 男性器の小像!=Got A small statue of male genitalia!
+Got 肉の作業台レシピ!=Got a meat workbench recipe!
+Got 蜘蛛の作業台レシピ!=Got Spider Workbench Recipe!
+
