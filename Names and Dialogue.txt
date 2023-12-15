@@ -40,6 +40,90 @@
 がさつ=Satsatsu
 ハマン=Haman
 ピピン=Pepin
+アイリス=Iris
+アイリーン=Irene
+アナ=Ana
+アベン=Aven
+アマオ=Amao
+アリサ=Alisa
+アルル=Arles
+イソッポ=Isoppo
+イナラ=Inara
+イム=Imu
+イヨ=Iyo
+エイナ=Aina
+エクレール=Eclival
+エミール=Emile
+エリス=Ellis
+エリー=Elley
+オパ=Opa
+カナン=Canaan
+カラ=Kara
+カーリー=Carly
+キウリィ=Kirii
+キシャ=Kisha
+キタンマ=Kitamma
+キッボルフ=Kibolf
+コヌ=Konon
+コムコム=Comucomu
+キーラ=Keira
+クイ=Qui
+ケッソル=Kesol
+サイカ=Caika
+サナン=Sanan
+サマル=Samal
+サランドル=Salandle
+シンバ=Cymba
+シーマ=Cima
+ジン=Gin
+スー=Suue
+セッチャン=Secchan
+セト=Set
+セパ=Sepa
+ソボボッチ=Sobobocchi
+ソマ=Soma
+ソミン=Somin
+ソル=Sol
+ソーラ=Sola
+タナン=Tannan
+タンナ=Tanna
+チャカル=Chakar
+チョル=Chor
+ツテ=Tip
+ツモ=Tsumo
+トッポ=Toppo
+トビー=Toby
+トンナン=Tonnan
+ドレミ=Doremi
+ナナ=Nana
+ナナンカ=Nananca
+ナポリエル=Napoliel
+ナポル=Napol
+ニェダ=Neda
+ニェン=Nien
+ニココ=Nicoko
+ニュヌ=Nunnu
+ニラン=Nylan
+ヌィル=Niil
+ヌカ=Nuku
+ヌン=Nun
+ネアンナ=Neanna
+ネネン=Nennen
+ネパ=Nepa
+ノア=Noah
+ノダ=Noda
+ノロッタ=Norotta
+ノーニャ=Nonya
+ハミチェン=Hamichen
+
+
+
+
+
+
+
+
+
 
 こんにちはあああ\nあああ=Hello ah ah\nAh
 ああああ\nあああ\nあああ\nああああ=Oh oh\nAh\nAh\nOh oh
@@ -362,5 +446,8 @@
 ハァ...\nあぁ...\n俺は散々だ...少し休む=Haa... Ah... I've had enough... I'll rest for a bit...
 んじゃ俺は\nもう2，3回使っとくわ=Well then, I'll use it 2 or 3 more times...
 はぁ...\n死ぬまでやってろ...=Sigh... Do it till ya drop...
+
 Yuta\n（ヤバそうなのがいる...）=Yuta (There's someone dangerous...)
 Yuta\n（近づかないようにしよう...）=Yuta (Let's not get closer...)
+
+あたしもまだ枯れてないねぇ～ひひっ=I'm not withered yet, hehe~

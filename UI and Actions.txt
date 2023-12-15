@@ -13,7 +13,7 @@
 乳首=Nipples
 ペイント=Body Paint
 色=Color
-
+バックヘアー=Back hair
 マップ=Map
 補助=<size\=5>Misc</size>
 頭=<size\=5>Head</size>
@@ -32,6 +32,7 @@
 名前\n変更=<size\=6>Name\nChange</size>
 名前\n表示=<size\=6>Name\nDisplay</size>
 好物=Favorite
+タエ=Day
 朝=Morning
 昼=Midday
 夕=Evening
@@ -113,7 +114,17 @@
 コミュニケーション=Communication
 牧畜=Animals
 飼育=Breeding
-出産所=Birthplace
+美容=Beauty
+美容（仲間）=Beauty (Friends)
+ポーズ=Pause
+向き=Direction
+応援=Support
+ダンス=Dance
+下品なダンス=Vulgar Dance
+座る=Sit
+収穫=Harvest
+扇ぐ=Fan
+処女=Virgin
 はい=Yes
 いいえ=No
 ロードしますか？=Load This Game?
@@ -151,6 +162,7 @@
 [左クリック] レイプ続行\n[R] 離れる= [Left-click] Continue rape\n[R] Leave
 指定したポイントに移動しますか？=Do you want to move to the specified point?
 [Ctrl+左クリック]撤去モード=[Ctrl+left click] Removal mode
+ポーズ中...<size\=10>（Escで解除）</size>=Paused...<size\=10>(Release with ESC)</size>
 覗く=Peek
 交代=Change
 いじわる=Ill-tempered
@@ -162,7 +174,7 @@
 セーブ=Save
 セーブしますか？=Do you save?
 セーブ中...=Save...
-■なし\n働きません。性欲の回復量が上がる。\n\n■食料（必要建物：食料箱）\n食料を調達し、食料箱に蓄える。\n\n■伐採（必要建物：伐採場）\n木材を調達し、伐採場に蓄える。\n\n■採掘（必要建物：採掘場）\n石を調達し、採掘場に蓄える。\n\n■採集（必要建物：収穫箱）\n枝、葉、繊維等を調達し、収穫箱にいれる。\n\n■農作（必要建物：プランター & 収穫箱）\n近くのプランターの世話をして、収穫を収穫箱に入れる。\n\n■牧畜（必要建物：牧畜場）\n近くの牧畜場のお世話をして、繁殖させる。\n\n■発掘（必要建物：発掘場）\n土を調達し、発掘場に蓄える。=<size\=6>■ None\nDoes not work. Increases libido recovery amount.\n\n■ Food (Required Building: Food Box)\nProcure food and store it in the food box.\n\n■ Logging (Required Building: Logging Site)\nProcure wood and store it in the logging site.\n\n■ Mining (Required Building: Mining Site)\nProcure stone and store it in the mining site.\n\n■ Gathering (Required Building: Harvest Box)\nProcure branches, leaves, fibers, etc., and place them in the harvest box.\n\n■ Farming (Required Building: Planter & Harvest Box)\nTake care of nearby planters and put the harvest in the harvest box.\n\n■ Animal Husbandry (Required Building: Animal Husbandry)\nTake care of the nearby animals and let them breed.\n\n■ Excavation (Required Building: Excavation Site)\nProcure soil and store it in the excavation site.</size>
+脱ぐ/着る=Take off/put on
 スキップ=Skip
 矢を持っていません=I don't have an arrow
 運んでいるNPCが多すぎる=Carrying too many NPCs.
@@ -174,9 +186,37 @@
 夜まで眠る=<size\=6>Sleep until night</size>
 Sleep until morning=<size\=6>Sleep until morning</size>
 Sleep until night=<size\=6>Sleep until night</size>
-
+インベントリがいっぱいです=A lot of inventory
+脅迫=Threat
 スキルレベルが上がった=Skill level increased
 Got 男性器の小像!=Got A small statue of male genitalia!
 Got 肉の作業台レシピ!=Got a meat workbench recipe!
 Got 蜘蛛の作業台レシピ!=Got Spider Workbench Recipe!
+ピッケルを装備していません=A pick is not equipped.
+ヘアー=Hair
+中身があるアイテムは取り壊せません=Items with the contents cannot be demolished
+今は呼び戻せません=I can't call back now
+他の人が使用中です=Others are using it.
+仲間が利用できる=Available to friends.
+倒れたNPCには使えません=Cannot be used for fallen NPCs
+収集できるものがなかった=There was nothing to collect
+取り消し=Cancel
+右脚=Right Leg
+右腕=Right Arm
+左脚=Left Leg
+左腕=Left Arm
+戦闘中は使えません=Cannot be used during battle
+形状=Surgery
+指=Finger
+指定したポイントに辿り着けません=I can't reach the specified point
+死体は収容できません=The corpse cannot fit
 
+■なし\n働きません。性欲の回復量が上がる。\n\n■食料（必要建物：食料箱）\n食料を調達し、食料箱に蓄える。\n\n■伐採（必要建物：伐採場）\n木材を調達し、伐採場に蓄える。\n\n■採掘（必要建物：採掘場）\n石を調達し、採掘場に蓄える。\n\n■採集（必要建物：収穫箱）\n枝、葉、繊維等を調達し、収穫箱にいれる。\n\n■農作（必要建物：プランター & 収穫箱）\n近くのプランターの世話をして、収穫を収穫箱に入れる。\n\n■牧畜（必要建物：牧畜場）\n近くの牧畜場のお世話をして、繁殖させる。\n\n■発掘（必要建物：発掘場）\n土を調達し、発掘場に蓄える。=<size\=6>■ None\nDoes not work. Increases libido recovery amount.\n\n■ Food (Required Building: Food Box)\nProcure food and store it in the food box.\n\n■ Logging (Required Building: Logging Site)\nProcure wood and store it in the logging site.\n\n■ Mining (Required Building: Mining Site)\nProcure stone and store it in the mining site.\n\n■ Gathering (Required Building: Harvest Box)\nProcure branches, leaves, fibers, etc., and place them in the harvest box.\n\n■ Farming (Required Building: Planter & Harvest Box)\nTake care of nearby planters and put the harvest in the harvest box.\n\n■ Animal Husbandry (Required Building: Animal Husbandry)\nTake care of the nearby animals and let them breed.\n\n■ Excavation (Required Building: Excavation Site)\nProcure soil and store it in the excavation site.</size>
+5体まで移動速度が落ちない\n5体までファストトラベルできる\n\n=Transporting\n\nIncreases efficiency when carrying NPCs\n\nLv1 - Can carry up to 2 NPCs\nCan carry up to 1 NPC without slowing down\n\nLv2 - Can carry up to 3 NPCs\nCan carry up to 2 NPCs without slowing down\nCan fast travel up to 1 NPC\n\nLv3 - Can carry up to 4\nCan carry up to 3 bodies without slowing down\nCan fast travel up to 2\n\nLv4 - Can carry up to 5 animals\nCan carry up to 4 bodies without slowing down\nCan fast travel up to 3 bodies\n\nLv5 - Can carry up to 5 fast travelers without slowing down\nCan fast travel up to 5\n\n
+観察\n\nNPCのステータスが見えるようになる\n\nLv1 - 敵のレベルが見えるようになる\n\nLv2 - 敵のHP数値が見えるようになる\n\nLv3 - 敵の性格が見えるようになる\n\nLv4 - 敵の年齢が見えるようになる\n\nLv5 - \n\n=Observation\n\nMakes NPC status visible\n\nLv1 - Enemy level becomes visible\n\nLv2 - Enemy HP values become visible\n\nLv3 - Enemy's character becomes visible\n\nLv4 - Enemy Age Becomes Visible\n\nLv5 - Enemies' age \n\n
+自然治癒\n\n非戦闘時、時間経過で自動回復する\n（空腹時、水不足時を除く）\n\nLv1 - 2/5s\n\nLv2 - 4/5s\n\nLv3 - 6/5s\n\nLv4 - 8/5s\n\nLv5 - 10/5s\n\n=Natural healing\nAutomatically recovers during non -combat and time passing (except when hungry and lack of water)\nLv1 -2/5s\nLv2-4/5s\nLv3 -6/5s\nLv4-8/5s\nLv5 -10/5s\n\n
+先導\n\n仲間を連れ歩けるキャパシティを増やす\n\nLv1 - キャパシティ4\n\nLv2 - キャパシティ5\n\nLv3 - キャパシティ6\n\nLv4 - キャパシティ7\n\nLv5 - キャパシティ8\n\n=leading the way\n\nIncrease capacity to walk with friends\n\nLv1 - Capacity 4\n\nLv2 - Capacity 5\n\nLv3 - Capacity 6\n\nLv4 - Capacity 7\n\nLv5 - Capacity 8\n\n
+建築\n\n建築可能距離&遠隔操作の範囲が広がる\n遠隔操作はCtrlキーを押しながらターゲットをクリック\n\nLv1 - 建築可能距離4\n\nLv2 - 建築可能距離6\n\nLv3 - 建築可能距離8\n\nLv4 - 建築可能距離10\n\nLv5 - 建築可能距離12\n\n=Building\n\nBuilding Distance & Remote Control Range Expanded\nFor remote control, hold down the Ctrl key and click on the target.\n\nLv1 - Building range 4\n\nLv2 - 6\n\nLv3 - 8\n\nLv4 - Buildable Distance 10\n\nLv5 - Buildable Distance 12\n\n
+強打\n\nヘビーアタックを強化する\n\nLv1 - ヘビーアタックで倒した時、２カ所解体されることがある\n\nLv2 - ヘビーアタックがガードでキャンセルできる\n\nLv3 - ヘビーアタックのダメージ倍率+50％\n\nLv4 - 敏捷がヘビーアタックの速度に影響するようになる\n\nLv5 - ヘビーアタックのダメージ倍率+100％\n\n=Hard Strike\n\nEnhancing Heavy Attack\n\nLv1 - Heavy Attack can be demolished in two places when knocked down\n\nLv2 - Heavy Attack can be canceled by guard\n\nLv3 - Heavy Attack damage multiplier +50\n\nLv4 - Agility now affects Heavy Attack speed\n\nLv5 - Heavy Attack damage multiplier +100\n\n
+捕縛\n\nグラップルを強化する\n\nLv1 - グラップルの気絶ダメージ2\nクリック時間0.5秒毎に気絶ダメージ\n\nLv2 - グラップルで抑え込める時間1.5倍\n左クリック時間0.4秒毎に気絶ダメージ\n\nLv3 - グラップルの気絶ダメージ3\nクリック時間0.3秒毎に気絶ダメージ\n\nLv4 - グラップルで抑え込める時間2倍\nクリック時間0.2秒毎に気絶ダメージ\n\nLv5 - グラップルの気絶ダメージ4\nクリック時間0.1秒毎に気絶ダメージ\n\n=Capture\n\nEnhance Grapple\n\nLv1 - Grapple stun damage: 2\nStun damage every 0.5 seconds of click time\n\nLv2 - Grapple duration: 1.5x \nStun damage every 0.4 seconds click time\n\nLv3 - Grapple stun damage: 3\nStun damage every 0.3 seconds of click time\n\nLv4 - Grapple duration: 2x\nStun damage every 0.2 seconds of click time\n\nLv5 - Grapple stun damage: 4\nStun damage every 0.1 seconds of click time\n\n
+採集\n\n資源の採集量と副産物のドロップ率が増加\n\nLv1 - 採集量1.5倍\n\nLv2 - 副産物のドロップ率が1.5倍になる\n\nLv3 - 採集量2倍\n\nLv4 - 副産物のドロップ率が2倍になる\n\nLv5 - 採集量3倍\n\n=Gathering\n\nIncreased collection of resources and drop rate of by-products\n\nLv1 - 1.5x resources collected\n\nLv2 - 1.5x drop rate of by-products\n\nLv3 - 2x resources collected\n\nLv4 - Double the by-product drop rate\n\nLv5 - 3x resources collected\n\n
