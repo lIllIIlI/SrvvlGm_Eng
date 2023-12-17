@@ -4,9 +4,6 @@
 葉のベッド=Leaf bed
 鉄の棍棒=Iron club
 相手を殴って気絶させるための武器\n\n<color\=#33FF99>気絶10</color>=Weapons to beat and stun the opponent\n\n<color\=#33FF99>Stunning 10</color>
-装備可能=Can Equip:
-必要素材=Necessary material
-
 旗=Flag
 ボディーフック=Body hook
 茂み=Brush
@@ -669,6 +666,7 @@ Got 男の作業台レシピ!=Got Oji-san's workbench recipe!
 女サンタの服=Woman Santa's clothes
 女主人公=Female hero
 小さい生肉=Small raw meat
+小ぶりな生の肉。そのまま食べると危険\n\n<color\=#33FF99>Food10</color>\n<color\=#FF0033>Food Poison30</color>=Small pieces of raw meat, dangerous to eat as is\n\n<color\=#33FF99>Food10</color>\n<color\=#FF0033>Food Poison30</color>
 小さい魚を飾ることができる=Can be decorated with small fish.
 巨大な棍棒=Giant Cudgel
 巫女装束（上下）=Shrine maiden costume (Top&Bottom)
@@ -711,6 +709,61 @@ Got 男の作業台レシピ!=Got Oji-san's workbench recipe!
 水着（貝殻）=Swimwear (shell)
 洗う=Wash
 浮き輪（フラミンゴ）=Float (Flamingo)
+ケイゴのシャツ=Keigo's shirt
+ケイゴのパンツ=Keigo's pants
+レイカのサンダル=Reica's Sandals
+レイカのリボン=Reika's Ribbon
+木のテーブル（緑クロス）=Wooden table (Green cloth)
+雨は降らなくなる=Rain will stop falling.
+てるてる爺=Teru Teru Bozu
+石の腰掛け=Stone seat
+釣り餌として使える\n\n<color\=#33FF99>Food2</color>=Can be used as fishing bait\n\n<color\=#33FF99>Food2</color>
+
+ヘビーアタック時、5メートル以内にある敵の死体を3体まで爆発させる。\n死体が爆発した時、自分を5%回復する\n\n<color\=#33FF99>Attack22</color>=During a heavy attack, explodes up to 3 enemy corpses within 5 meters.\nWhen the corpses explode, heals himself by 5%.\n\n<color\=#33FF99>Attack22</color>
+生の肉。そのまま食べると危険\n\n<color\=#33FF99>Food30</color>\n<color\=#FF0033>Food Poison40</color>=Raw Meat: Dangerous to Eat Uncooked\n\n<color\=#33FF99>Food30</color>\n<color\=#FF0033>Food Poison40</color>
+横たわる=lie down
+ココナッツジュース(Dish)=Coconut juice (Dish)
+食パン(Dish)=Bread(Dish)
+ブール(Dish)=Buhl (Dish)
+チーズ(Dish)=Cheese (Dish)
+アイスクリーム(Dish)=Ice Cream (Dish)
+出産場所の近くに置くと男の子が産まれる\n\n<color\=#33FF99>Food15</color>\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>=Placing a baby boy near the birthplace will give birth to a boy\n\n<color\=#33FF99>Food15</color>\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>
+雄饅頭(Dish)=Male Manjuu(Dish)
+出産場所の近くに置くと女の子が産まれる\n\n<color\=#33FF99>Food15</color>\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>=Loli is born when placed near the birthplace\n\n<color\=#33FF99>Food15</color>\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>
+雌饅頭(Dish)=Female Manjuu(Dish)
+飲むと成長値が上昇する\n成長値が18になると大人の姿になる\n（{{A}}専用）=Drinking increases growth value.\nWhen the growth value reaches 18, it becomes an adult\n(For {{A}} only)
+HPを最大HPの50％分回復する\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>\n<color\=#00fa9a>Defence2</color>=Restores HP by 50% of maximum HP\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>\n<color\=#00fa9a>Defence2</color>
+健康ドリンク(Dish)=Health drink (Dish)
+トマトシチュー(Dish)=Tomato Stew (Dish)
+えび天=Shrimp tempura
+天ぷらうどん(Dish)=Tempura Udon (Dish)
+豚カツサンド(Dish)=Pork cutlet sandwich (Dish)
+えび天(Dish)=Shrimp tempura (Dish)
+サンドウィッチ(Dish)=Sandwich (Dish)
+サラダ(Dish)=Salad (Dish)
+チャーシュー=Roasted pork fillet
+ラーメン(Dish)=Ramen(Dish)
+ニンニク=Garlic
+ミートソースパスタ(Dish)=Pasta with meat sauce (Dish)
+チーズ=Cheese
+野菜ピザ(Dish)=Vegetable Pizza (Dish)
+コロッケ(Dish)=Croquette (Dish)
+グラタン(Dish)=Gratin (Dish)
+焼いた小ぶりな肉\n\n<color\=#33FF99>Food10</color>\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>=Grilled small meat\n\n<color\=#33FF99>Food10</color>\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>
+焼いた左腕（女）=Grilled left arm (Female)
+焼いた左腕\n\n<color\=#33FF99>Food12</color>\n<color\=#FF0033>Moral-2</color>=Grilled left arm\n\n<color\=#33FF99>Food12</color>\n<color\=#FF0033>Moral-2</color>
+焼いた左腕\n\n<color\=#33FF99>Food10</color>\n<color\=#FF0033>Moral-2</color>=Grilled left arm\n\n<color\=#33FF99>Food10</color>\n<color\=#FF0033>Moral-2</color>
+焼いた左脚\n\n<color\=#33FF99>Food25</color>\n<color\=#FF0033>Moral-2</color>=Grilled left leg\n\n<color\=#33FF99>Food25</color>\n<color\=#FF0033>Moral-2</color>
+焼いた左脚（女）=Grilled left leg (Female)
+焼いた左腕（男）=Grilled left arm (Male)
+焼いた右腕\n\n<color\=#33FF99>Food12</color>\n<color\=#FF0033>Moral-2</color>=Grilled right arm\n\n<color\=#33FF99>Food12</color>\n<color\=#FF0033>Moral-2</color>
+焼いた右腕（男）=Grilled right arm (Male)
+焼いた右脚\n\n<color\=#33FF99>Food25</color>\n<color\=#FF0033>Moral-2</color>=Grilled right leg\n\n<color\=#33FF99>Food25</color>\n<color\=#FF0033>Moral-2</color>
+焼いた右脚（女）=Grilled right leg (Female)
+焼き野菜(Dish)=Grilled Vegetables (Dish)
+
+
+
 
 大きめの管[{{A}}]=Larger cock [{{A}}]
 乳房=Breast

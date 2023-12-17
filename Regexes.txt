@@ -1,5 +1,4 @@
-###### Regex = Regex ######
-r:"^Save (\d+)\\nDate:(\d{4})年(\d{1,2})月(\d{1,2})日 (\d{2}):(\d{2}):(\d{2})\\nPlayTime:(\d{2})h(\d{2})m(\d{2})s$"=Save $1\nDate: $2/$3/$4 $5:$6:$7\nPlaytime: $8H$9M$10s
+r:"^Save (\d+)\\nDate:(\d{4})年(\d{1,2})月(\d{1,2})日 (\d{2}):(\d{2}):(\d{2})\\nPlayTime:(\d{2})h(\d{2})m(\d{2})s$"=Save $1\nDate: $2/$3/$4 $5:$6:$7\nPlayTime: $8h$9m$10s
 r:"^食料を(\d+)消費してファストトラベルしますか？$"=Do you consume $1 food and fast travel?
 r:"^生成完了！...(\d+)sec$"=Generating finished!...$1sec
 r:"^マップを生成中...(\d+)sec$"=Generating map...$1sec
@@ -17,7 +16,8 @@ r:"焼いた肉 (\d+)$"=Grilled meat $1
 r:^(.+)の出産を行いますか？(?:\\n(.+?))?(?:（(.+?)%）)?$=Would $1 like to give birth?\n$2$3
 r:(.+)が子に(.+?)と名付けました$=$1 named the child "$2"
 r:"^(\S+) named her child (\S+)\.$"=$1 named her child $2.
-r:<color\\=#FF33FF>(.+?)は(.+?)を妊娠した</color>=<color\=#FF33FF>$1 became pregnant by $2</color>
+r:<color\\=#FF33FF>(.+?)は(.+?)を妊娠した</color>=<color\=#FF33FF>$1 was impregnated by $2</color>
+r:<color\\=#8550BEFF>([^<]+)<\/color>は<color\\=#8550BEFF>([^<]+)<\/color>への片想いに苦しんでいる
 r:"^(.+)のレベルが上がった$"=$1 leveled up!
 r:"^食料が(\d+)必要です$"=I need $1 food...
 sr:"^(Expel )(\S+)\?$"=Exile $2?
@@ -29,3 +29,6 @@ sr:"^(\S+) has leveled up\.$"=$1 has leveled up.
 sr:"^(\S+) is being targeted\.$"=$1 is being targeted.
 sr:"^Failed to protect (\S+)\.$"=Failed to protect $1.
 sr:"^(\S+)is broken\.$"=$1 is broken.
+
+
+
