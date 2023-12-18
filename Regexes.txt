@@ -17,7 +17,9 @@ r:^(.+)の出産を行いますか？(?:\\n(.+?))?(?:（(.+?)%）)?$=Would $1 li
 r:(.+)が子に(.+?)と名付けました$=$1 named the child "$2"
 r:"^(\S+) named her child (\S+)\.$"=$1 named her child $2.
 r:<color\\=#FF33FF>(.+?)は(.+?)を妊娠した</color>=<color\=#FF33FF>$1 was impregnated by $2</color>
-r:<color\\=#8550BEFF>([^<]+)<\/color>は<color\\=#8550BEFF>([^<]+)<\/color>への片想いに苦しんでいる
+r:"<color\\=#8550BEFF>(.+)</color>は<color\\=#8550BEFF>(.+)</color>への片想いに苦しんでいる$"=$1 suffers from crushing on $2
+r:"^<color\\=red><color\\=#8550BEFF>(.+)</color>が<color\\=#8550BEFF>(.+)</color>を襲おうとしている</color>$"=<color\=red><color\=#8550BEFF>$1</color> is about to attack <color\=#8550BEFF>$2</color></color>
+
 r:"^(.+)のレベルが上がった$"=$1 leveled up!
 r:"^食料が(\d+)必要です$"=I need $1 food...
 sr:"^(Expel )(\S+)\?$"=Exile $2?

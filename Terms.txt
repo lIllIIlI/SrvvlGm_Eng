@@ -398,6 +398,7 @@ Got 男の作業台レシピ!=Got Oji-san's workbench recipe!
 ヒョウ柄のビキニ（下）=Bikini with a leopard pattern (Bottom)
 ヒル=Leech
 ピンクのカーテン（大）=Pink Curtain (Large)
+カーテン（ピンク）=Curtain (pink)
 ピンクの鏡=Pink mirror
 フィロッグ=Frog
 あまりおいしそうではないが食べられる魚\n\n<color\=#33FF99>Food8</color>=Fish that doesn't look so tasty but is edible\n\n<color\=#33FF99>Food8</color>
@@ -719,7 +720,7 @@ Got 男の作業台レシピ!=Got Oji-san's workbench recipe!
 石の腰掛け=Stone seat
 釣り餌として使える\n\n<color\=#33FF99>Food2</color>=Can be used as fishing bait\n\n<color\=#33FF99>Food2</color>
 
-ヘビーアタック時、5メートル以内にある敵の死体を3体まで爆発させる。\n死体が爆発した時、自分を5%回復する\n\n<color\=#33FF99>Attack22</color>=During a heavy attack, explodes up to 3 enemy corpses within 5 meters.\nWhen the corpses explode, heals himself by 5%.\n\n<color\=#33FF99>Attack22</color>
+ヘビーアタック時、5メートル以内にある敵の死体を3体まで爆発させる。\n死体が爆発した時、自分を5%回復する\n\n<color\=#33FF99>Attack22</color>=During a heavy attack, explodes up to 3 enemy corpses within 5 meters.\nWhen the corpses explode, heals 5% of user's hp.\n\n<color\=#33FF99>Attack22</color>
 生の肉。そのまま食べると危険\n\n<color\=#33FF99>Food30</color>\n<color\=#FF0033>Food Poison40</color>=Raw Meat: Dangerous to Eat Uncooked\n\n<color\=#33FF99>Food30</color>\n<color\=#FF0033>Food Poison40</color>
 横たわる=lie down
 ココナッツジュース(Dish)=Coconut juice (Dish)
@@ -762,8 +763,90 @@ HPを最大HPの50％分回復する\n\n<color\=#00fa9a>Cooking Effects(During t
 焼いた右脚（女）=Grilled right leg (Female)
 焼き野菜(Dish)=Grilled Vegetables (Dish)
 
-
-
+足+100%=Foot+100%
+力+100%=Power+100%
+魔法の服（上）=Magical clothes (top)
+スクラップ=Scrap
+{{A}}守護者={{A}} Guardian
+犬の守護者=Dog Guardian
+守護者の布被り=Guardian's cloth cover
+包帯の服（下）=Bandage clothing (below)
+頭（マミー）=Head (Mummy)
+スペクター=Specter
+重+100%=Heavy +100
+足+100%=Legs +100
+力+100%=Power +100
+捕獲したブタ=Captured pigs
+ヘビーアタック時、5メートル以内にある敵の死体を3体まで爆発させる。\n死体が爆発した時、自分を5%回復する\n\n<color\=#33FF99>Attack22</color>=During a heavy attack, explodes up to 3 enemy corpses within 5 meters.\nWhen the corpses explode, heals himself by 5%.\n\n<color\=#33FF99>Attack22</color>
+起動すると周囲の人体パーツを収集する\n起動するために10%の体力を消費する必要がある=Collects surrounding human body parts when activated\nRequires 10% of physical energy to activate
+調理することができる作業台=A workbench where you can cook
+人体を寄せ集めて作った盾\nガード中ダメージを80%カットする\nガード時、敵に気絶攻撃で反撃する\n\n<color\=#33FF99>Guard80</color>=Shield made from a collection of human bodies\nCut 80% of damage while guarding\nWhen guarded, the shield counterattacks the enemy with a stun attack.\n\n<color\=#33FF99>Guard80</color>
+地獄のトーテム=Totem of Hell
+一つ設置する毎に\n襲撃者のレベルが50上がる=For every one installed\nRaises the level of the marauder by 50
+小動物を飼い慣らすための檻\n捕獲した動物とエサを入れておくと\n餌付け出来る（収容可能数2）\n<color\=#33FF99>Durability50</color>=Cages for taming small animals\nYou can put captured animals and food in it.\nCan be fed (capacity 2)\n<color\=#33FF99>Durability50</color>
+姉御{{A}}=Sister {{A}}
+文字を書くことができる=Can write letters
+墓=tomb
+女{{A}}=Female {{A}}
+木の槍=Wooden spear
+鉄で作られた矢。\n{{A}}の80%のダメージを与える=Arrow made of iron.\nDeals 80% of {{A}} damage.
+小麦=Wheat
+木のプラットフォーム=Wooden platform
+木の看板=Wooden signboard
+木の階段=Wooden staircase
+木のテーブル（白クロス）=Wooden table with white cloth
+出産を安全に行うことができる=Safe delivery of the baby
+石の看板=Stone Signboard
+一つ設置する毎に襲撃者の人数が2増える=Each one installed increases the number of raiders by two.
+バスケット=Basket
+石で囲われたプール=Pool surrounded by stones
+石造りのプール（小）=Stone pool (Small)
+石造りのプール=Stone swimming pool
+NPCを横たわらせることができる=Can make NPCs lie down.
+シート（チェック柄）=Sheet (Checkered)
+シート=Sheet
+石のテーブル=Stone Table
+作業台の近くに置くと中身の素材も参照される=When placed near the workbench, the material inside is also referenced.
+大型動物を飼い慣らすための檻\n捕獲した動物とエサを入れておくと\n餌付け出来る（収容可能数1）\n人）\n<color\=#33FF99>Durability200</color>=Cages for taming large animals\nYou can put captured animals and food in it.\nCan be fed (Capacity 1)\n(people)\n<color\=#33FF99>Durability200</color>
+ヘビーアタック時、1つの斬撃を飛ばす\n\n<color\=#33FF99>Attack25</color>=When heavy attacked, one slash is sent off.\n\n<color\=#33FF99>Attack25</color>
+ヘビーアタック時、3つの斬撃を飛ばす\n\n<color\=#33FF99>Attack20</color>=Three slashes are sent out during heavy attack\n\n<color\=#33FF99>Attack20</color>
+ダイヤの棍棒=Diamond cudgel
+鉄で作られた盾\nガード中ダメージを100%カットする\n装備中、移動速度が20%下がる\n\n<color\=#33FF99>Guard100</color>=Shield made of iron\nCut 100% of damage while guarding\nMovement speed is reduced by 20% while equipped.\n\n<color\=#33FF99>Guard100</color>
+NPCが訓練に使用できる=NPCs can use it for training
+サンドバッグ=Sandbag
+石の階段=Stone staircase
+高級牛肉=Quality Beef
+ステーキセット(Dish)=Steak set (Dish)
+チャーシュー(Dish)=Chashu(Dish)
+看守の服（上）=Guards' Clothes (Top)
+看守の服（下）=Guards' Clothes (bottom)
+看守{{A}}=Jailer {{A}}
+男根の壁=Phallic wall
+吸い込むと深い眠りに落ちる\n（所持していると夜這い時の選択肢が増える）=Falls into a deep sleep when inhaled\n(Possession increases your options when night crawling)
+綺麗な柱=Beautiful columns
+運搬中のマミー=Mummy in transit
+蜘蛛の壁=Spiderwall
+蜘蛛の椅子=Spider Chair
+レインボーサーモン=Rainbow salmon
+生肉串(Dish)=Raw meat skewers (Dish)
+肉の壁=Wall of flesh
+肉でコーティングされたバリケード\n<color\=#33FF99>Durability800</color>=Flesh Coated Barricades\n<color\=#33FF99>Durability800</color>
+女体の丸焼き(Dish)=Whole roasted female body (Dish)
+チャーシュー(Dish)=Chashu(Dish)
+男根の形をしたバリケード\n<color\=#33FF99>Durability800</color>=Phallic shaped barricade\n<color\=#33FF99>Durability800</color>
+虹色の光沢をもった綺麗なサーモン\n\n<color\=#33FF99>Food50</color>=Beautiful salmon with iridescent sheen\n\n<color\=#33FF99>Food50</color>
+サーモン=salmon
+ごくふつうのサーモン\n\n<color\=#33FF99>Food20</color>=Common Salmon\n\n<color\=#33FF99>Food20</color>
+焼いた方がおいしく食べられそう\n\n<color\=#33FF99>Food8</color>=It would taste better if it were baked.\n\n<color\=#33FF99>Food8</color>
+カニクリームコロッケ(Dish)=Crab Cream Croquette (Dish)
+ごくふつうの卵\n\n<color\=#33FF99>Food5</color>\n<color\=#33FF99>Water4</color>\n<color\=#33FF99>Food Poison-5</color>=Ordinary Eggs\n\n<color\=#33FF99>Food5</color>\n<color\=#33FF99>Water4</color>\n<color\=#33FF99>Food Poison-5</color>
+蜘蛛の素材で作られたバリケード\n<color\=#33FF99>Durability800</color>=Barricade made of spider material\n<color\=#33FF99>Durability800</color>
+丸太の壁=Log wall
+赤色に輝く綺麗な宝石=Beautiful red gemstone.
+赤の宝石=Red Jewel
+Got ブレイン!=Got Brain!
+キャシーの脳\nラボの機能が使える=Cathy's Brain\nLab features available.
+ブレイン=Brain
 
 大きめの管[{{A}}]=Larger cock [{{A}}]
 乳房=Breast
@@ -830,3 +913,4 @@ HPを最大HPの50％分回復する\n\n<color\=#00fa9a>Cooking Effects(During t
 {{A}}女をはりつけにする台=A platform to crucify {{A}} women
 右腕（{{A}}）[{{A}}]=Right Arm ({{A}}) [{{A}}]
 左腕（{{A}}）[{{A}}]=Left arm ({{A}}) [{{A}}]
+小柄原住民（男）[小柄原住民]<size\=6><color\=#DB3737FF>(Dead)</color></size>=Tiny Native (Male) [Tiny Native].<size\=6><color\=#DB3737FF>(Dead)</color></size>

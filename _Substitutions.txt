@@ -6,7 +6,7 @@
 女大柄=Amazoness
 老婆=Old Woman
 老爺=Old Man
-小柄=Tiny
+小柄=Tiny 
 食中毒=Food poisoning
 水分=Thirst
 食料=Food
