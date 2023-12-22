@@ -227,6 +227,12 @@ Got 蜘蛛の作業台レシピ!=Got Spider Workbench Recipe!
 レイカとケイゴはラブラブだ=Reika and Keigo are in love.
 エドを解放した=Released Ed
 ドクターエドの病気=Doctor Ed's illness
+キャシーと会話した=I had a conversation with Cathy.
+ダルマンを救出した=Rescued Dalman
+ダルマンの研究=Dalman's Research
+人造人間キャシーを倒した=Defeated Android Cathy.
+ダルマンを倒した=I beat Dalman.
+[左クリック]　移動\n[右ドラッグ]　上昇・下降\n[V]　ドローンの表示・非表示\n[Tab]　終了=[Left -click] Move\n[Right -drag] Rise / Descend\n[V] Display / hide drone\n[Tab] End
 
 ■なし\n働きません。性欲の回復量が上がる。\n\n■食料（必要建物：食料箱）\n食料を調達し、食料箱に蓄える。\n\n■伐採（必要建物：伐採場）\n木材を調達し、伐採場に蓄える。\n\n■採掘（必要建物：採掘場）\n石を調達し、採掘場に蓄える。\n\n■採集（必要建物：収穫箱）\n枝、葉、繊維等を調達し、収穫箱にいれる。\n\n■農作（必要建物：プランター & 収穫箱）\n近くのプランターの世話をして、収穫を収穫箱に入れる。\n\n■牧畜（必要建物：牧畜場）\n近くの牧畜場のお世話をして、繁殖させる。\n\n■発掘（必要建物：発掘場）\n土を調達し、発掘場に蓄える。=<size\=6>■ None\nDoes not work. Increases libido recovery amount.\n\n■ Food (Required Building: Food Box)\nProcure food and store it in the food box.\n\n■ Logging (Required Building: Logging Site)\nProcure wood and store it in the logging site.\n\n■ Mining (Required Building: Mining Site)\nProcure stone and store it in the mining site.\n\n■ Gathering (Required Building: Harvest Box)\nProcure branches, leaves, fibers, etc., and place them in the harvest box.\n\n■ Farming (Required Building: Planter & Harvest Box)\nTake care of nearby planters and put the harvest in the harvest box.\n\n■ Animal Husbandry (Required Building: Animal Husbandry)\nTake care of the nearby animals and let them breed.\n\n■ Excavation (Required Building: Excavation Site)\nProcure soil and store it in the excavation site.</size>
 5体まで移動速度が落ちない\n5体までファストトラベルできる\n\n=Transporting\n\nIncreases efficiency when carrying NPCs\n\nLv1 - Can carry up to 2 NPCs\nCan carry up to 1 NPC without slowing down\n\nLv2 - Can carry up to 3 NPCs\nCan carry up to 2 NPCs without slowing down\nCan fast travel up to 1 NPC\n\nLv3 - Can carry up to 4\nCan carry up to 3 bodies without slowing down\nCan fast travel up to 2\n\nLv4 - Can carry up to 5 animals\nCan carry up to 4 bodies without slowing down\nCan fast travel up to 3 bodies\n\nLv5 - Can carry up to 5 fast travelers without slowing down\nCan fast travel up to 5\n\n
