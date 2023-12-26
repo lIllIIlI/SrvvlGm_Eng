@@ -1,4 +1,4 @@
-﻿女の子原住民=Child Native
+﻿女の子原住民=Loli Native
 大柄原住民=Large Native
 女原住民=Female Native
 女の子=Loli
@@ -12,3 +12,6 @@
 食料=Food
 攻撃力=Attack
 ヨナ=Yona
+マミー=Mommy
+地底の女=Underground Woman
+地底の男=Underground Man
