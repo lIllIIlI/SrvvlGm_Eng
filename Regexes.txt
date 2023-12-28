@@ -7,7 +7,7 @@ r:"白身魚 (\d+)$"=White fish $1
 r:"焼きキノコ (\d+)$"=Grilled mushroom $1
 r:"赤キノコ (\d+)$"=Red mushroom $1
 r:"ベリー (\d+)$"=Berry $1
-r:"ジャガイモ (\d)$"=Potato $1
+r:"ジャガイモ (\d+)$"=Potato $1
 r:"トウモロコシ (\d+)$"=Corn $1
 r:"トウモロコシの種 (\d+)$"=Corn seed $1
 r:"ニンジン (\d+)$"=Carrot $1
@@ -31,6 +31,5 @@ sr:"^(\S+) has leveled up\.$"=$1 has leveled up.
 sr:"^(\S+) is being targeted\.$"=$1 is being targeted.
 sr:"^Failed to protect (\S+)\.$"=Failed to protect $1.
 sr:"^(\S+)is broken\.$"=$1 is broken.
-
 
 

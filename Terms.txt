@@ -176,6 +176,7 @@ Tシャツ=T-shirt
 牢=Prison
 ハチミツ=Honey
 薬草=Herb
+傷に効く\n\n<color\=#33FF99>Food1</color>\n<color\=#33FF99>Food Poison-5</color>=Is effective on wounds\n\n<color\=#33FF99>Food 1</color>\n<color\=#33FF99>Food Poison -5</color>
 水を持ち運べる皮の袋\n\n<color\=#33FF99>水分40</color>\n<color\=#33FF99>食中毒-10</color>\n\n<color\=#FF0033>攻撃力0</color>=Waterskin made from animal leather.\n\n<color\=#33FF99>Moisture 40</color>\n<color\=#33FF99>Food poisoning -10</color>\n\n<color\=#FF0033>Attack power 0</color>
 皮袋（きれいな水）=Waterskin (Clean water)
 皮袋（汚い水）=Waterskin (Dirty water)
@@ -813,9 +814,9 @@ NPCを横たわらせることができる=Can make NPCs lie down.
 シート=Sheet
 石のテーブル=Stone Table
 作業台の近くに置くと中身の素材も参照される=When placed near the workbench, the material inside is also referenced.
-大型動物を飼い慣らすための檻\n捕獲した動物とエサを入れておくと\n餌付け出来る（収容可能数1）\n人）\n<color\=#33FF99>Durability200</color>=Cages for taming large animals\nYou can put captured animals and food in it.\nCan be fed (Capacity 1)\n(people)\n<color\=#33FF99>Durability200</color>
-ヘビーアタック時、1つの斬撃を飛ばす\n\n<color\=#33FF99>Attack25</color>=When heavy attacked, one slash is sent off.\n\n<color\=#33FF99>Attack25</color>
-ヘビーアタック時、3つの斬撃を飛ばす\n\n<color\=#33FF99>Attack20</color>=Three slashes are sent out during heavy attack\n\n<color\=#33FF99>Attack20</color>
+大型動物を飼い慣らすための檻\n捕獲した動物とエサを入れておくと\n餌付け出来る（収容可能数1）\n人）\n<color\=#33FF99>Durability200</color>=Cages for taming large animals\nYou can put captured animals and food in it.\nCan be fed (Capacity 1)\n<color\=#33FF99>Durability200</color>
+ヘビーアタック時、1つの斬撃を飛ばす\n\n<color\=#33FF99>Attack25</color>=Upon heavy attack, one slash is sent off.\n\n<color\=#33FF99>Attack25</color>
+ヘビーアタック時、3つの斬撃を飛ばす\n\n<color\=#33FF99>Attack20</color>=Three weak slashes are sent out upon heavy attack\n\n<color\=#33FF99>Attack20</color>
 ダイヤの棍棒=Diamond cudgel
 鉄で作られた盾\nガード中ダメージを100%カットする\n装備中、移動速度が20%下がる\n\n<color\=#33FF99>Guard100</color>=Shield made of iron\nCut 100% of damage while guarding\nMovement speed is reduced by 20% while equipped.\n\n<color\=#33FF99>Guard100</color>
 NPCが訓練に使用できる=NPCs can use it for training
@@ -828,7 +829,7 @@ NPCが訓練に使用できる=NPCs can use it for training
 看守の服（下）=Guards' Clothes (bottom)
 看守{{A}}=Jailer {{A}}
 男根の壁=Phallic wall
-吸い込むと深い眠りに落ちる\n（所持していると夜這い時の選択肢が増える）=Falls into a deep sleep when inhaled\n(Possession increases your options when night crawling)
+吸い込むと深い眠りに落ちる\n（所持していると夜這い時の選択肢が増える）=Falls into a deep sleep when inhaled\n(Possessing it increases your options when night crawling)
 綺麗な柱=Beautiful columns
 運搬中のマミー=Mummy in transit
 蜘蛛の壁=Spiderwall
@@ -868,7 +869,7 @@ Got ブレイン!=Got Brain!
 豪華な壁=Gorgeous wall
 頭部以外を切断し、切り口を修復する\nダルマ化機械=Cutting off all but the head and repairing the cut\nDalmatization machine
 スクラップアーム=Scrap arm
-人体の結合を行う装置=Device for bonding the human body
+人体の結合を行う装置=Device for synthesizing the human body
 人造人間製造カプセル=Synthetic manufacturing capsule
 ドローン=Drone
 カスタマイズできるライト=Customizable Lights
@@ -881,7 +882,6 @@ Got ブレイン!=Got Brain!
 プラントン（核）=Planton (Core)
 プラントン=Planton
 台座=Pedestal
-Got 緑の宝石!=GOT Green Jewel!
 鉄岩の壁=Ironstone wall
 金で作られたバリケード\n<color\=#33FF99>Durability2000</color>=Barricades made of gold\n<color\=#33FF99>Durability2000</color>
 岩を丈夫に組み上げたバリケード\n<color\=#33FF99>Durability3000</color>=Barricades made of sturdy rock\n<color\=#33FF99>Durability3000</color>
@@ -903,7 +903,57 @@ Got 緑の宝石!=GOT Green Jewel!
 鉄の看板=Iron Signboard
 大豆=Soy
 使用すると襲撃が発生する=When used, an attack occurs
+高級牛肉(Dish)=Luxury beef (Dish)
+目玉串(Dish)=Founded skewer (Dish)
+ウシ=Cow
+{{A}}の髪飾り={{A}} hair ornament
+{{A}}の豪華な髪飾り={{A}} luxurious hair ornament
+地底の{{A}}=Underground {{A}}
+緑色に輝く綺麗な宝石=Beautiful green gemstone.
+緑の宝石=Green Jewel
 
+バナナの着ぐるみ（頭）=Banana costume (Head)
+着ぐるみ用カバー（上）=Cover for costume (Top)
+着ぐるみ用カバー（足）=Cover for costume (Legs)
+ミルキー=Milky
+高級な生の牛肉。そのまま食べられる\n\n<color\=#33FF99>Food40</color>\n\n<color\=#00fa9a>Cooking Effects(During the raid)</color>\n<color\=#00fa9a>Attack1</color>\n<color\=#00fa9a>Stun1</color>=Luxury raw beef.\nCan be eaten as it is\n\n<color\=#33FF99>Food40</color>\n<color\=#00fa9a>Cooking Effects(During the raid)</color>\n<color\=#00fa9a>Attack1</color>\n<color\=#00fa9a>Stun1</color>
+キノコを固めて作った盾\nガード中ダメージを100%カットする\nガード時、敵の攻撃力分のライフを回復する\nジャストガード時、回復量が2倍になる\n耐久力が少なく、ジャストガードしても盾へのダメージは減らない\n\n<color\=#33FF99>Guard100</color>=Shield made by hardening mushrooms\nCut 100%damage while guarding\nWhen guarding, recover the life of the enemy Attack\nDouble recovery during just guard\nThe durability is low, and the damage to the shield does not decrease even if you just guard\n\n<color\=#33FF99>Guard100</color>
+紫キノコ=Purple mushroom
+キノコ盾=Mushroom Shield
+草花の壁=Flowering Wall
+草で作られたバリケード\n<color\=#33FF99>Durability500</color>=Barricades made of grass\n<color\=#33FF99>Durability500</color>
+キノコで作られたバリケード\n<color\=#33FF99>Durability500</color>=Barricades made of mushrooms\n<color\=#33FF99>Durability500</color>
+バラのアーチ=Rose arch
+襲撃者が女性になる確率を上げる=Increase the probability of an attacker becoming a woman
+キノコのテーブル=Mushroom table
+蔓の服（下）=Vine clothes (bottom)
+蔓の服（上）=Vine clothes (top)
+蛍光灯（横）=Fluorescent light (horizontal)
+キノコの壁=Mushroom wall
+一つ設置する毎に襲撃者の人数が2人減る=Each time you install one, the number of attackers is reduced by 2
+ホタル=Firefly
+捕獲したホタル=Captured fireflies
+捕獲したチョウ=Captured butterfly
+装備している間淫乱になる=Succumb to lust while equipped
+淫欲の指輪=Ring of lust
+包帯の服（上）=Bandage clothes (Top)
+ヘビーアタック時、十字の炎を発生させる\n\n<color\=#33FF99>Attack40</color>=Generate a cross flame during heavy attacks\n\n<color\=#33FF99>Attack40</color>
+守護戦士の剣=Guardian Warrior's Sword
+顔の形が彫られた盾\nガード中ダメージを90%カットする\nガード時、毒のある液体を吐き出す\n\n<color\=#33FF99>Guard90</color>=A shield with the shape of the face\nCut 90%of the damage while guarding\nExhale poisonous liquid when guarding\n\n<color\=#33FF99>Guard90</color>
+毒吐きの盾=Poisonous Shield
+大きな卵=Large egg
+ネックスベビー=Nex Baby
+うさぎの着ぐるみ（頭）=Rabbit costume (Head)
+うさぎの着ぐるみ（上）=Rabbit costume (Top)
+うさぎの着ぐるみ（下）=Rabbit costume (Bottom)
+ネックス=Nex
+青の宝石=Blue Jewel
+捕獲したカニ=Captured crab
+青色に輝く綺麗な宝石=Beautiful blue gemstone.
+ポーク<size\=6>[Midium]</size>=Pork<size\=6>[Medium]</size>
+
+
+運搬中の{{B}}（{{A}}）={{B}} ({{A}}) carried
 男の子{{A}}=Boy {{A}}
 大きめの管[{{A}}]=Larger cock [{{A}}]
 乳房=Breast
@@ -971,3 +1021,8 @@ Got 緑の宝石!=GOT Green Jewel!
 右腕（{{A}}）[{{A}}]=Right Arm ({{A}}) [{{A}}]
 左腕（{{A}}）[{{A}}]=Left arm ({{A}}) [{{A}}]
 小柄原住民（男）[小柄原住民]<size\=6><color\=#DB3737FF>(Dead)</color></size>=Tiny Native (Male) [Tiny Native]<size\=6><color\=#DB3737FF>(Dead)</color></size>
+切り落とした{{A}}の頭=Cut off {{A}} head
+[{{B}}{{A}}]=[{{B}}{{A}}]
+[{{A}}]=[{{A}}]
+運搬中の{{A}}={{A}} carried
+頭（{{B}}{{A}}）=Head ({{B}}{{A}})
