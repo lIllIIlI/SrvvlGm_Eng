@@ -372,7 +372,7 @@ Got 男の作業台レシピ!=Got Oji-san's workbench recipe!
 狂気のオーブ=Orb of Madness
 闘士のオーブ=Orb of Valor
 大地のオーブ=Orb of Earth
-生命のオーブ=Orb of life
+生命のオーブ=Orb of Life
 死者のオーブ=Orb of Death
 鉱石で作られた針の床\n踏んだ敵に気絶ダメージを与える=Damage the stunning damage to the enemy who stepped on the needle made of ore
 鉱石の針床=Ore Needlebed
@@ -951,8 +951,17 @@ Got ブレイン!=Got Brain!
 捕獲したカニ=Captured crab
 青色に輝く綺麗な宝石=Beautiful blue gemstone.
 ポーク<size\=6>[Midium]</size>=Pork<size\=6>[Medium]</size>
+翼の作業台の作り方がわかるレシピ=Recipe that shows how to make a wing workbench
+翼の作業台レシピ=Wing work table recipe
+植物の作業台の作り方がわかるレシピ=Recipe that shows how to make a plant workbench
+植物の作業台レシピ=Plant workbench recipe
+猟人の服（下）=Hunter's clothes (Bottom)
+猟人の靴=Hunter's shoes
+闘士のオーブ 10=Orb of Valor 10
+葉の扇=Leaf fan
+葉のカーペット=Leaf carpet
 
-
+[女{{A}}]=[Female {{A}}]
 運搬中の{{B}}（{{A}}）={{B}} ({{A}}) carried
 男の子{{A}}=Boy {{A}}
 大きめの管[{{A}}]=Larger cock [{{A}}]
